@@ -21,8 +21,6 @@ Please consider citing the below paper, if you are using the code provided in th
 ## Overview
 This repository contains implementation codes of all the deep learning models used in the [above paper](https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-5-7404&id=546969).
 
-## File Structure of the Directory
-
 ## Design
 In our paper, we use three below-written experimental designs. For more details, please refer to the paper.
 1. **Design 1 -** *Training with only simulation data*: We trained and validated all five deep-learning models using simulated data and tested on the experimental data. 
@@ -69,5 +67,4 @@ python Code/main.py --design 1
 
 ## Results
 The results are saved in the results folder in `.data` format. Please read them to get your prediction results.
-
 
