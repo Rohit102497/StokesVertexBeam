@@ -66,5 +66,7 @@ python Code/main.py --design 1
 **Note: If design = 2, then make sure to assign `pretrain_simulated` variable**
 
 ## Results
-The results are saved in the results folder in `.data` format. Please read them to get your prediction results.
+The results are saved in the results folder in `.data` format. Please read them to get your prediction results. 
+
+`AnalyseResult` folder contains codes to analyse results. Provide correct result paths to run the code.
 
